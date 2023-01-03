@@ -1,0 +1,25 @@
+{
+  "name": "goit-node-hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArturMand/goit-node-hw1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArturMand/goit-node-hw1/issues"
+  },
+  "homepage": "https://github.com/ArturMand/goit-node-hw1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "yargs": "^17.6.2"
+  }
+}
